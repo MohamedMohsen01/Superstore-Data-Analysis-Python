@@ -219,7 +219,6 @@ I've dug into the data to uncover patterns in our sales over time, examining yea
 
 Our study has looked into patterns to gain insights into how sales and profits are distributed across cities, regions, and states. I've highlighted the cities, regions, and states that excel in sales and profits by using visual aids to showcase regional differences. Additionally, I've evaluated how different shipping methods impact our sales and profits, aiming to provide valuable insights into customer preferences.
 
-**Benefits of This Analysis:**
 
 This comprehensive exploratory data analysis equips the Super Store with valuable insights extracted from the available data. By addressing pertinent questions, we've unearthed crucial details about customer behavior, product performance, sales trends, and geographical dynamics. These insights are pivotal in making informed decisions to enhance operational efficiency and formulate strategies that set the stage for sustainable growth and success in today's fiercely competitive retail landscape.
 
@@ -229,7 +228,7 @@ This comprehensive exploratory data analysis equips the Super Store with valuabl
 
 # Results and Insights
 
-- The analysis identified four main customer groups: Home Office, Corporate, and Consumer. These groups represent the various types of customers the Super Store serves.
+- The analysis identified 3 main customer groups: Home Office, Corporate, and Consumer. These groups represent the various types of customers the Super Store serves.
 
 - Among these groups, the largest is Consumer with 5191 Customers, followed by Corporate with 3020 Customers, and then Home Office with 1783 Customers. Home Office has the fewest customers.
 
