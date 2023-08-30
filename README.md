@@ -12,9 +12,9 @@ In this project I have performed an exploratory data analysis (EDA), on sales da
 
 # Data Description
 
-                                         This table contains 21 columns and 9993 rows.
+This table contains 21 columns and 9993 rows.
 
-                                                       Data Dictionary
+**Data Dictionary**
 
 | Column                  | Description                                  | Data Type      |
 | :---------------------- | :--------------------------------------------| :------------- |
