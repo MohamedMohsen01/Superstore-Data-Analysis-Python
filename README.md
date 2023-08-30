@@ -59,7 +59,7 @@ This table contains 21 columns and 9993 rows.
 - Gained an understanding of the specific business questions or objectives that need to be addressed using the dataset.
 
 
-**4. Data Pre-processing and Cleaning:**
+**3. Data Pre-processing and Cleaning:**
 
 Enhanced the dataset's quality by applying data cleaning methods. I adjusted data formats and structures to ready the dataset for analysis.
 
@@ -68,7 +68,7 @@ Enhanced the dataset's quality by applying data cleaning methods. I adjusted dat
 - Converted the data type of specific columns to approporaite data type for better optimization.
 
 
-**6. Feature Engineering**
+**4. Feature Engineering**
 
 Created new variables from existing data that provided additional insights, such as:
 
@@ -76,7 +76,7 @@ Created new variables from existing data that provided additional insights, such
 
 - Generated another new column titled `Profit Margin` calculated by dividing the overall profit by the total sales. This metric provides insight into the profitability ratio.
 
-**7. Exploratory Data Analysis (EDA):**
+**5. Exploratory Data Analysis (EDA):**
 
 The process of exploratory data analysis is done by answering the listed questions and objectives outlined within this project's scope.
 
